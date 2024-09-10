@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/pccu_graduationTopic_shotgameVR/static/css/main.7646df93.chunk.css",
+    "main.js": "/pccu_graduationTopic_shotgameVR/static/js/main.3fdc006d.chunk.js",
+    "main.js.map": "/pccu_graduationTopic_shotgameVR/static/js/main.3fdc006d.chunk.js.map",
+    "runtime-main.js": "/pccu_graduationTopic_shotgameVR/static/js/runtime-main.0a5a32d2.js",
+    "runtime-main.js.map": "/pccu_graduationTopic_shotgameVR/static/js/runtime-main.0a5a32d2.js.map",
+    "static/js/2.26acc9b8.chunk.js": "/pccu_graduationTopic_shotgameVR/static/js/2.26acc9b8.chunk.js",
+    "static/js/2.26acc9b8.chunk.js.map": "/pccu_graduationTopic_shotgameVR/static/js/2.26acc9b8.chunk.js.map",
+    "index.html": "/pccu_graduationTopic_shotgameVR/index.html",
+    "precache-manifest.0bebc3daaccbd12ace16ff7bdeb239ca.js": "/pccu_graduationTopic_shotgameVR/precache-manifest.0bebc3daaccbd12ace16ff7bdeb239ca.js",
+    "service-worker.js": "/pccu_graduationTopic_shotgameVR/service-worker.js",
+    "static/css/main.7646df93.chunk.css.map": "/pccu_graduationTopic_shotgameVR/static/css/main.7646df93.chunk.css.map",
+    "static/js/2.26acc9b8.chunk.js.LICENSE.txt": "/pccu_graduationTopic_shotgameVR/static/js/2.26acc9b8.chunk.js.LICENSE.txt",
+    "static/media/AssaultRifle.png": "/pccu_graduationTopic_shotgameVR/static/media/AssaultRifle.768cb994.png",
+    "static/media/GrenadeLaunche.png": "/pccu_graduationTopic_shotgameVR/static/media/GrenadeLaunche.ef56aa19.png",
+    "static/media/RocketLauncher.png": "/pccu_graduationTopic_shotgameVR/static/media/RocketLauncher.ed79a3da.png",
+    "static/media/ShotGun.png": "/pccu_graduationTopic_shotgameVR/static/media/ShotGun.b3827fa3.png",
+    "static/media/carousel1.png": "/pccu_graduationTopic_shotgameVR/static/media/carousel1.6c16f672.png",
+    "static/media/carousel2.png": "/pccu_graduationTopic_shotgameVR/static/media/carousel2.8be6ff08.png",
+    "static/media/carousel3.png": "/pccu_graduationTopic_shotgameVR/static/media/carousel3.cb09d5a9.png",
+    "static/media/index0.PNG": "/pccu_graduationTopic_shotgameVR/static/media/index0.372f19cd.PNG",
+    "static/media/logo.png": "/pccu_graduationTopic_shotgameVR/static/media/logo.421f1b58.png",
+    "static/media/maynard.png": "/pccu_graduationTopic_shotgameVR/static/media/maynard.578012b4.png",
+    "static/media/pistol.png": "/pccu_graduationTopic_shotgameVR/static/media/pistol.83bd541f.png",
+    "static/media/point0.bmp": "/pccu_graduationTopic_shotgameVR/static/media/point0.f52fb495.bmp",
+    "static/media/point1.bmp": "/pccu_graduationTopic_shotgameVR/static/media/point1.0758d1a2.bmp",
+    "static/media/point2.bmp": "/pccu_graduationTopic_shotgameVR/static/media/point2.2d5171eb.bmp",
+    "static/media/point3.bmp": "/pccu_graduationTopic_shotgameVR/static/media/point3.be1de2fa.bmp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a5a32d2.js",
+    "static/js/2.26acc9b8.chunk.js",
+    "static/css/main.7646df93.chunk.css",
+    "static/js/main.3fdc006d.chunk.js"
+  ]
+}
